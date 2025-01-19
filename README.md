@@ -17,7 +17,11 @@
 - [x] [테스트를 작성해야 하는 이유](https://github.com/okdol1/Book-Frontend-Testing/tree/main/CHAPTER1_테스트_목적과_장애물/README.md#테스트를-작성해야-하는-이유)
 - [x] [테스트를 작성하면 시간이 절약되는 이유](https://github.com/okdol1/Book-Frontend-Testing/tree/main/CHAPTER1_테스트_목적과_장애물/README.md#테스트를-작성하면-시간이-절약되는-이유)
 
-### 2장 [테스트 방법과 테스트 전략](/tree/main/CHAPTER2_테스트_방법과_테스트_전략)
+### 2장 [테스트 방법과 테스트 전략](https://github.com/okdol1/Book-Frontend-Testing/tree/main/CHAPTER2_테스트_방법과_테스트_전략)
+
+- [x] [프런트엔드 테스트의 범위](https://github.com/okdol1/Book-Frontend-Testing/tree/main/CHAPTER2_테스트_방법과_테스트_전략/README.md#프런트엔드-테스트의-범위)
+- [x] [프런트엔드 테스트의 목적](https://github.com/okdol1/Book-Frontend-Testing/tree/main/CHAPTER2_테스트_방법과_테스트_전략/README.md#프런트엔드-테스트의-목적)
+- [x] [테스트 전략 모델](https://github.com/okdol1/Book-Frontend-Testing/tree/main/CHAPTER2_테스트_방법과_테스트_전략/README.md#테스트-전략-모델)
 
 ### 3장 처음 시작하는 단위 테스트
 
