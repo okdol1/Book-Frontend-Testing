@@ -23,7 +23,15 @@
 - [x] [프런트엔드 테스트의 목적](https://github.com/okdol1/Book-Frontend-Testing/tree/main/CHAPTER2_테스트_방법과_테스트_전략/README.md#프런트엔드-테스트의-목적)
 - [x] [테스트 전략 모델](https://github.com/okdol1/Book-Frontend-Testing/tree/main/CHAPTER2_테스트_방법과_테스트_전략/README.md#테스트-전략-모델)
 
-### 3장 처음 시작하는 단위 테스트
+### 3장 [처음 시작하는 단위 테스트](https://github.com/okdol1/Book-Frontend-Testing/tree/main/CHAPTER3_처음_시작하는_단위_테스트)
+
+- [x] [환경 설정](https://github.com/okdol1/Book-Frontend-Testing/tree/main/CHAPTER3_처음_시작하는_단위_테스트/README.md#환경-설정)
+- [x] [테스트 구성 요소](https://github.com/okdol1/Book-Frontend-Testing/tree/main/CHAPTER3_처음_시작하는_단위_테스트/README.md#테스트-구성-요소)
+- [x] [테스트 실행 방법](https://github.com/okdol1/Book-Frontend-Testing/tree/main/CHAPTER3_처음_시작하는_단위_테스트/README.md#테스트-실행-방법)
+- [x] [조건 분기](https://github.com/okdol1/Book-Frontend-Testing/tree/main/CHAPTER3_처음_시작하는_단위_테스트/README.md#조건-분기)
+- [x] [에지 케이스와 예외 처리](https://github.com/okdol1/Book-Frontend-Testing/tree/main/CHAPTER3_처음_시작하는_단위_테스트/README.md#에지-케이스와-예외-처리)
+- [x] [용도별 매처](https://github.com/okdol1/Book-Frontend-Testing/tree/main/CHAPTER3_처음_시작하는_단위_테스트/README.md#용도별-매처)
+- [x] [비동기 처리 테스트](https://github.com/okdol1/Book-Frontend-Testing/tree/main/CHAPTER3_처음_시작하는_단위_테스트/README.md#비동기-처리-테스트)
 
 ### 4장 목 객체
 
@@ -38,3 +46,13 @@
 ### 9장 시각적 회귀 테스트
 
 ### 10장 E2E 테스트
+
+<br />
+
+## 목차 생성 스크립트 사용법
+
+Markdown 파일에 Headline2 목차를 자동으로 추가하려면 아래 명령어를 실행하세요.
+
+```bash
+node add-toc.js <Markdown 파일 경로>
+```
