@@ -92,7 +92,10 @@
 - [스토리북 테스트 러너](https://github.com/okdol1/Book-Frontend-Testing/tree/main/CHAPTER8_UI_컴포넌트_탐색기/README.md#스토리북-테스트-러너)
 - [스토리를 통합 테스트에 재사용하기](https://github.com/okdol1/Book-Frontend-Testing/tree/main/CHAPTER8_UI_컴포넌트_탐색기/README.md#스토리를-통합-테스트에-재사용하기)
 
-### 9장 시각적 회귀 테스트
+### 9장 [시각적 회귀 테스트](https://github.com/okdol1/Book-Frontend-Testing/tree/main/CHAPTER9_시각적_회귀_테스트)
+
+- [시각적 회귀 테스트의 필요성](https://github.com/okdol1/Book-Frontend-Testing/tree/main/CHAPTER9_시각적_회귀_테스트/README.md#시각적-회귀-테스트의-필요성)
+- [시각적 회귀 테스트를 활용한 적극적 리팩터링](https://github.com/okdol1/Book-Frontend-Testing/tree/main/CHAPTER9_시각적_회귀_테스트/README.md#시각적-회귀-테스트를-활용한-적극적-리팩터링)
 
 ### 10장 E2E 테스트
 
