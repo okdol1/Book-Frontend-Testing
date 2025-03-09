@@ -81,7 +81,16 @@
 - [x] [웹 API 통합 테스트](https://github.com/okdol1/Book-Frontend-Testing/tree/main/CHAPTER7_웹_애플리케이션_통합_테스트/README.md#웹-API-통합-테스트)
 - [x] [이미지 업로드 통합 테스트](https://github.com/okdol1/Book-Frontend-Testing/tree/main/CHAPTER7_웹_애플리케이션_통합_테스트/README.md#이미지-업로드-통합-테스트)
 
-### 8장 UI 컴포넌트 탐색기
+### 8장 [UI 컴포넌트 탐색기](https://github.com/okdol1/Book-Frontend-Testing/tree/main/CHAPTER8_UI_컴포넌트_탐색기)
+
+- [스토리북 기초](https://github.com/okdol1/Book-Frontend-Testing/tree/main/CHAPTER8_UI_컴포넌트_탐색기/README.md#스토리북-기초)
+- [스토리북 필수 애드온](https://github.com/okdol1/Book-Frontend-Testing/tree/main/CHAPTER8_UI_컴포넌트_탐색기/README.md#스토리북-필수-애드온)
+- [Context API에 의존하는 스토리 등록](https://github.com/okdol1/Book-Frontend-Testing/tree/main/CHAPTER8_UI_컴포넌트_탐색기/README.md#Context-API에-의존하는-스토리-등록)
+- [웹 API에 의존하는 스토리 등록](https://github.com/okdol1/Book-Frontend-Testing/tree/main/CHAPTER8_UI_컴포넌트_탐색기/README.md#웹-API에-의존하는-스토리-등록)
+- [Next.js Router에 의존하는 스토리 등록](https://github.com/okdol1/Book-Frontend-Testing/tree/main/CHAPTER8_UI_컴포넌트_탐색기/README.md#Next.js-Router에-의존하는-스토리-등록)
+- [Play function을 활용한 인터랙션 테스트](https://github.com/okdol1/Book-Frontend-Testing/tree/main/CHAPTER8_UI_컴포넌트_탐색기/README.md#Play-function을-활용한-인터랙션-테스트)
+- [스토리북 테스트 러너](https://github.com/okdol1/Book-Frontend-Testing/tree/main/CHAPTER8_UI_컴포넌트_탐색기/README.md#스토리북-테스트-러너)
+- [스토리를 통합 테스트에 재사용하기](https://github.com/okdol1/Book-Frontend-Testing/tree/main/CHAPTER8_UI_컴포넌트_탐색기/README.md#스토리를-통합-테스트에-재사용하기)
 
 ### 9장 시각적 회귀 테스트
 
